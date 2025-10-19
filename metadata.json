@@ -1,0 +1,5 @@
+{
+  "name": "Azure MLOps Pipeline Visualizer",
+  "description": "An interactive web application that visually represents a complete, automated MLOps pipeline on Azure Machine Learning. It includes a Gemini-powered AI assistant to explain the various components and processes involved in the predictive analytics workflow.",
+  "requestFramePermissions": []
+}
